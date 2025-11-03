@@ -11,6 +11,22 @@ public class SafeInput {
             count++;
             System.out.println("The value " + userValue + " was found " + count + " times.");
 
+            for (int j = 0; j < dataPoints.length; j++) {
+            }
+            if (dataPoints[i] == userValue) {
+                break;
+
+
+            }
+            System.out.println("The value " + userValue + " was found " + count + " times.");
+            System.out.println("The value " + userValue + " was not found " + count + " times.");
+
+
+
+
+
+
+
 
 
 
